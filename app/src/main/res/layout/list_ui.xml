@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="12dp"
+    android:paddingLeft="12dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="36dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary1">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting design news is ..."
+                android:layout_below="@+id/title1"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"    />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary1"
+        android:layout_marginTop="32dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting design news is ..."
+                android:layout_below="@+id/title2"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"    />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary2"
+        android:layout_marginTop="32dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting design news is ..."
+                android:layout_below="@+id/title3"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"    />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary2"
+        android:layout_marginTop="32dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting design news is ..."
+                android:layout_below="@+id/title4"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"    />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary3"
+        android:layout_marginTop="32dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title5"
+                android:text="Interesting design news is ..."
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/primary3"
+        android:layout_marginTop="32dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/img"
+            android:layout_weight="1">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="News Design - for 2018"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting design news is ..."
+                android:layout_below="@+id/title"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:textStyle="bold"    />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/right"
+            android:layout_weight="1"
+            app:tint="#fff" />
+
+    </LinearLayout>
+
+</LinearLayout>
