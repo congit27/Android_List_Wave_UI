@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/BaiTapTuan32/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Android/ListUI/app/src/main/res/drawable/ic_wave.xml" value="0.101" />
+        <entry key="..\:/Android/ListUI/app/src/main/res/drawable/ic_wave2.xml" value="0.1885" />
         <entry key="..\:/Android/ListUI/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
         <entry key="..\:/Android/ListUI/app/src/main/res/layout/list_ui.xml" value="0.17798913043478262" />
+        <entry key="..\:/Android/ListUI/app/src/main/res/layout/wave_ui.xml" value="0.17798913043478262" />
       </map>
     </option>
   </component>
